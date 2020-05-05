@@ -1,4 +1,4 @@
-# Project 3 - Twitter - Part II
+# Project 4 - Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
